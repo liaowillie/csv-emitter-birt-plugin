@@ -7,7 +7,7 @@
             class="org.eclipse.birt.report.engine.emitter.csv.CSVReportEmitter"
             format="csv"
             id="org.eclipse.birt.report.engine.emitter.csv"
-            mimeType="test/csv">
+            mimeType="text/csv">
       </emitter>
    </extension>
 
