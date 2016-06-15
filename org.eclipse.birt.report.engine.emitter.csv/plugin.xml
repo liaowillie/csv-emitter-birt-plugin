@@ -9,6 +9,13 @@
             id="org.eclipse.birt.report.engine.emitter.csv"
             mimeType="text/csv">
       </emitter>
+      <emitter
+            class="org.eclipse.birt.report.engine.emitter.csv.CSVReportEmitter"
+            format="view.csv"
+            id="org.eclipse.birt.report.engine.emitter.csv2"
+            mimeType="text/csv">
+      </emitter>
+      
    </extension>
 
 </plugin>
